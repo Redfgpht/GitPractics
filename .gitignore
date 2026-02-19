@@ -1,0 +1,27 @@
+# Visual Studio (Windows)
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Visual Studio cache
+ipch/
+
+# Resharper / Rider (если подключались)
+_ReSharper*/
+.idea/
+
+# Backup files
+*.bak
+*.tmp
