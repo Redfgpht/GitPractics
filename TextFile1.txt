@@ -1,1 +1,3 @@
 This is the secret information about GitHub
+
+Some information
