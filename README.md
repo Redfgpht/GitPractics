@@ -1,2 +1,4 @@
 # GitPractics
-Not offiacial rep, just for fun
+Not official rep, just for fun
+
+Edit Readme.md -> try to pull-request
